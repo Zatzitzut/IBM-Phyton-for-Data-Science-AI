@@ -1,6 +1,6 @@
 # IBM Phyton for Data-Science AI
 Coursera IBM Data Science - Phyton for Data Science & AI Lab Assignment
-Title: Analyzing US Economic Data and building a Dashboard
+- Title: Analyzing US Economic Data and building a Dashboard
 
 Extracting essential data from a dataset and displaying it is a necessary part of data science; therefore individuals can make correct decisions based on the data. In this assignment, you will extract some essential economic indicators from some data, you will then display these economic indicators in a Dashboard. You have the option of hosting the Dashboard in IBM object Storage.
 
